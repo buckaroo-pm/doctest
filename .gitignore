@@ -24,6 +24,12 @@
 *.ii
 *.s
 
+# Buck
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+
 # My garbage :)
 Win32/
 x64/
